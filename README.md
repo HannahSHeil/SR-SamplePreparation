@@ -4,8 +4,9 @@
 
 Flurophors: 
 - [FPBase.org](https://www.fpbase.org/)
-- []()
+- Grimm, J.B., et al. Nat Meth (2022) ["Caveat fluorophore: an insiders’ guide to small-molecule fluorescent labels"](https://doi.org/10.1038/s41592-021-01338-6)
 -
+
 Refractive index: [refractiveindex.info](https://refractiveindex.info/)
 
 Sample preparation: 
