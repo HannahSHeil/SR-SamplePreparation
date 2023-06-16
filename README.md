@@ -10,10 +10,11 @@ Flurophors:
 * Fluorescent proteins:
     * Goedhart, J. & Mastop, M., Addgene blog post (2017) ["A Practical Approach to Choosing the B(right)est Fluorescent Protein"](http://blog.addgene.org/a-practical-approach-to-choosing-the-brightest-fluorescent-protein)
     * [“Fluorescent Proteins 101” eBook from Addgene](https://www.addgene.org/fluorescent-proteins/)
-    * Chudakov, et al. Physiol Rev (2010) ["Fluorescent Proteins and Their Applications in Imaging Living Cells and Tissues"](https://doi.org/10.1152/physrev.00038.2009)
-    * Wu, et al. Current Opinion in Cell Biology (2011)
+    * Chudakov, D.M. et al. Physiol Rev (2010) ["Fluorescent Proteins and Their Applications in Imaging Living Cells and Tissues"](https://doi.org/10.1152/physrev.00038.2009)
+    * Wu, B. et al. Current Opinion in Cell Biology (2011)
 ["Modern fluorescent proteins and imaging technologies to study gene expression, nuclear localization, and dynamics"](https://doi.org/10.1016/j.ceb.2010.12.004)
-    * Shaner, NC et al. Meth Cell Bio (2014) ["Chapter 6 - Fluorescent proteins for quantitative microscopy: Important properties and practical evaluation"](https://doi.org/10.1016/B978-0-12-420138-5.00006-9)
+    * Shaner, N.C. et al. Meth Cell Bio (2014) ["Chapter 6 - Fluorescent proteins for quantitative microscopy: Important properties and practical evaluation"](https://doi.org/10.1016/B978-0-12-420138-5.00006-9)
+    * Turkowyd, B. et al. Angew. Chem. Int. Ed. (2017) ["A General Mechanism of Photoconversion of Green-to-Red Fluorescent Proteins Based on Blue and Infrared Light Reduces Phototoxicity in Live-Cell Single-Molecule Imaging"](https://doi.org/10.1002/anie.201702870)
 
 
 
