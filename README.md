@@ -10,6 +10,10 @@ Flurophors:
     * Grimm, J.B., et al. Nat Methods (2022) ["Caveat fluorophore: an insiders’ guide to small-molecule fluorescent labels"](https://doi.org/10.1038/s41592-021-01338-6)
     * Dempsey, G., et al. Nat Methods (2011) ["Evaluation of fluorophores for optimal performance in localization-based super-resolution imaging"](https://doi.org/10.1038/nmeth.1768)
     * Demmerle, J., et al. Nat Protoc (2017) ["Strategic and practical guidelines for successful structured illumination microscopy"](https://doi.org/10.1038/nprot.2017.019)
+    * Luke Lavis: ["Janelia dyes"](https://www.janelia.org/open-science/janelia-fluor-dyes) 
+    * Mayeul Collot and Andrey Klymchenko: ["Membright"](https://www.idylle-labs.com/lipilight-by-membright) 
+
+
 
 
 * Fluorescent proteins:
