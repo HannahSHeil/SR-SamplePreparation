@@ -5,8 +5,13 @@
 Flurophors: 
 * [FPBase.org](https://www.fpbase.org/)
 * Sarmento, M.J., Fernandes, F. Fluorescence Spectroscopy and Microscopy in Biology (2022). ["Choosing the Right Fluorescent Probe"](https://doi.org/10.1007/4243_2022_30)
+
 * Organic dyes:
-    * Grimm, J.B., et al. Nat Meth (2022) ["Caveat fluorophore: an insiders’ guide to small-molecule fluorescent labels"](https://doi.org/10.1038/s41592-021-01338-6)
+    * Grimm, J.B., et al. Nat Methods (2022) ["Caveat fluorophore: an insiders’ guide to small-molecule fluorescent labels"](https://doi.org/10.1038/s41592-021-01338-6)
+    * Dempsey, G., et al. Nat Methods (2011) ["Evaluation of fluorophores for optimal performance in localization-based super-resolution imaging"](https://doi.org/10.1038/nmeth.1768)
+    * Demmerle, J., et al. Nat Protoc (2017) ["Strategic and practical guidelines for successful structured illumination microscopy"](https://doi.org/10.1038/nprot.2017.019)
+
+
 * Fluorescent proteins:
     * Goedhart, J. & Mastop, M., Addgene blog post (2017) ["A Practical Approach to Choosing the B(right)est Fluorescent Protein"](http://blog.addgene.org/a-practical-approach-to-choosing-the-brightest-fluorescent-protein)
     * [“Fluorescent Proteins 101” eBook from Addgene](https://www.addgene.org/fluorescent-proteins/)
