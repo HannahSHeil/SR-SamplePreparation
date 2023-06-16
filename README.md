@@ -12,6 +12,10 @@ Flurophors:
     * Demmerle, J., et al. Nat Protoc (2017) ["Strategic and practical guidelines for successful structured illumination microscopy"](https://doi.org/10.1038/nprot.2017.019)
     * Luke Lavis: ["Janelia dyes"](https://www.janelia.org/open-science/janelia-fluor-dyes) 
     * Mayeul Collot and Andrey Klymchenko: ["Membright"](https://www.idylle-labs.com/lipilight-by-membright) 
+    * HM-SiR: Uno, S. N. et al. Nat Chem (2014) ["Spontaneously Blinking Fluorophore Based on Intramolecular Spirocyclization for Live-Cell Super-Resolution Imaging"]() and Takakura, H. et al. Nat Biotechnol (2017) ["Long Time-Lapse Nanoscopy with Spontaneously Blinking Mem- brane Probes"](http://dx.doi.org/10.1038/nbt.3876)
+    * HM-JF526: Zheng et al. ACS Central Science (2019) ["Rational Design of Fluorogenic and Spontaneously Blinking Labels for Super-Resolution Imaging"](https://doi.org/10.1021/acscentsci.9b00676)
+    * Abberior FLIP 565: Grußmayer, K. et al. ACS Nano (2020) ["Self-Blinking Dyes Unlock High-Order and Multiplane Super-Resolution Optical Fluctuation Imaging"](https://doi.org/10.1021/acsnano.0c04602)
+
 
 
 
