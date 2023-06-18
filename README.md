@@ -5,6 +5,8 @@
 Flurophors: 
 * [FPBase.org](https://www.fpbase.org/)
 * Sarmento, M.J., Fernandes, F. Fluorescence Spectroscopy and Microscopy in Biology (2022). ["Choosing the Right Fluorescent Probe"](https://doi.org/10.1007/4243_2022_30)
+* Lelek, M., et al. Nat Rev Methods Primers (2021) ["Single-molecule localization microscopy"](https://doi.org/10.1038/s43586-021-00038-x)
+
 
 * Organic dyes:
     * Grimm, J.B., et al. Nat Methods (2022) ["Caveat fluorophore: an insiders’ guide to small-molecule fluorescent labels"](https://doi.org/10.1038/s41592-021-01338-6)
@@ -20,8 +22,6 @@ Flurophors:
 
 
 
-
-
 * Fluorescent proteins:
     * Goedhart, J. & Mastop, M., Addgene blog post (2017) ["A Practical Approach to Choosing the B(right)est Fluorescent Protein"](http://blog.addgene.org/a-practical-approach-to-choosing-the-brightest-fluorescent-protein)
     * [“Fluorescent Proteins 101” eBook from Addgene](https://www.addgene.org/fluorescent-proteins/)
@@ -32,12 +32,6 @@ Flurophors:
     * Turkowyd, B. et al. Angew. Chem. Int. Ed. (2017) ["A General Mechanism of Photoconversion of Green-to-Red Fluorescent Proteins Based on Blue and Infrared Light Reduces Phototoxicity in Live-Cell Single-Molecule Imaging"](https://doi.org/10.1002/anie.201702870)
     * Durisic, N. et al. Nat Methods (2014) ["Single-molecule evaluation of fluorescent protein photoactivation efficiency using an in vivo nanotemplate."](https://doi.org/10.1038/nmeth.2784)
    
-
-
-Lelek, M., Gyparaki, M.T., Beliu, G. et al. Single-molecule localization microscopy. Nat Rev Methods Primers 1, 39 (2021). https://doi.org/10.1038/s43586-021-00038-x
-
-
-
 
 
 Refractive index: [refractiveindex.info](https://refractiveindex.info/)
