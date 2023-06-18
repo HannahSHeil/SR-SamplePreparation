@@ -15,6 +15,8 @@ Flurophors:
     * HM-SiR: Uno, S. N. et al. Nat Chem (2014) ["Spontaneously Blinking Fluorophore Based on Intramolecular Spirocyclization for Live-Cell Super-Resolution Imaging"]() and Takakura, H. et al. Nat Biotechnol (2017) ["Long Time-Lapse Nanoscopy with Spontaneously Blinking Mem- brane Probes"](http://dx.doi.org/10.1038/nbt.3876)
     * HM-JF526: Zheng et al. ACS Central Science (2019) ["Rational Design of Fluorogenic and Spontaneously Blinking Labels for Super-Resolution Imaging"](https://doi.org/10.1021/acscentsci.9b00676)
     * Abberior FLIP 565: Grußmayer, K. et al. ACS Nano (2020) ["Self-Blinking Dyes Unlock High-Order and Multiplane Super-Resolution Optical Fluctuation Imaging"](https://doi.org/10.1021/acsnano.0c04602)
+    * Thevathasan, J.V. et al. Nat Methods (2019) ["Nuclear pores as versatile reference standards for quantitative superresolution microscopy."](https://doi.org/10.1038/s41592-019-0574-9)
+
 
 
 
@@ -28,7 +30,11 @@ Flurophors:
 ["Modern fluorescent proteins and imaging technologies to study gene expression, nuclear localization, and dynamics"](https://doi.org/10.1016/j.ceb.2010.12.004)
     * Shaner, N.C. et al. Meth Cell Bio (2014) ["Chapter 6 - Fluorescent proteins for quantitative microscopy: Important properties and practical evaluation"](https://doi.org/10.1016/B978-0-12-420138-5.00006-9)
     * Turkowyd, B. et al. Angew. Chem. Int. Ed. (2017) ["A General Mechanism of Photoconversion of Green-to-Red Fluorescent Proteins Based on Blue and Infrared Light Reduces Phototoxicity in Live-Cell Single-Molecule Imaging"](https://doi.org/10.1002/anie.201702870)
+    * Durisic, N. et al. Nat Methods (2014) ["Single-molecule evaluation of fluorescent protein photoactivation efficiency using an in vivo nanotemplate."](https://doi.org/10.1038/nmeth.2784)
+   
 
+
+Lelek, M., Gyparaki, M.T., Beliu, G. et al. Single-molecule localization microscopy. Nat Rev Methods Primers 1, 39 (2021). https://doi.org/10.1038/s43586-021-00038-x
 
 
 
