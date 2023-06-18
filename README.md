@@ -18,7 +18,7 @@ Flurophors:
     * HM-JF526: Zheng et al. ACS Central Science (2019) ["Rational Design of Fluorogenic and Spontaneously Blinking Labels for Super-Resolution Imaging"](https://doi.org/10.1021/acscentsci.9b00676)
     * Abberior FLIP 565: Grußmayer, K. et al. ACS Nano (2020) ["Self-Blinking Dyes Unlock High-Order and Multiplane Super-Resolution Optical Fluctuation Imaging"](https://doi.org/10.1021/acsnano.0c04602)
     * Thevathasan, J.V. et al. Nat Methods (2019) ["Nuclear pores as versatile reference standards for quantitative superresolution microscopy."](https://doi.org/10.1038/s41592-019-0574-9)
-
+    * Schnitzbauer, J. et al. Nat Protoc (2017) ["Super-resolution microscopy with DNA-PAINT"](https://doi.org/10.1038/nprot.2017.024)
 
 
 
