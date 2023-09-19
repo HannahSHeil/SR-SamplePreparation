@@ -38,7 +38,13 @@ Refractive index:
 * Refractive index database: [refractiveindex.info](https://refractiveindex.info/)
 * Khan et al., Photodiagnosis and Photodynamic Therapy 33 (2021) 102192 ["Refractive index of biological tissues: Review, measurement techniques, and applications"](https://doi.org/10.1016/j.pdpdt.2021.102192)
 
-Sample preparation: 
+Tissue clearing: 
+* Weiss, K.R. et al., Nat Protoc 16, 2732–2748 (2021) ["Tutorial: practical considerations for tissue clearing and imaging."](https://doi.org/10.1038/s41596-021-00502-8)
+* Molbay, M. et al. Molecular Systems Biology, 17:e9807 (2021) ["A guidebook for DISCO tissue clearing"](https://doi.org/10.15252/msb.20209807)
+* Richardson, D.S. et al. Nat Rev Methods Primers 1, 84 (2021) ["Tissue clearing."](https://doi.org/10.1038/s43586-021-00080-9)
+
+
+Sample preparation for Super-resolution Microscopy: 
 * Jimenez et al., Methods (2020) ["About samples, giving examples: Optimized Single Molecule Localization Microscopy"](https://doi.org/10.1016/j.ymeth.2019.05.008)
 * Jacquemet et al., J Cell Sci (2020) ["The cell biologist's guide to super-resolution microscopy"](https://doi.org/10.1242/jcs.240713)
 * Pereira, et al., Methods Cell Biol (2015) ["High-content 3D multicolor super-resolution localization
