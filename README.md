@@ -34,7 +34,9 @@ Flurophors:
    
 
 
-Refractive index: [refractiveindex.info](https://refractiveindex.info/)
+Refractive index: 
+* Refractive index database: [refractiveindex.info](https://refractiveindex.info/)
+* Khan et al., Photodiagnosis and Photodynamic Therapy 33 (2021) 102192 ["Refractive index of biological tissues: Review, measurement techniques, and applications"](https://doi.org/10.1016/j.pdpdt.2021.102192)
 
 Sample preparation: 
 * Jimenez et al., Methods (2020) ["About samples, giving examples: Optimized Single Molecule Localization Microscopy"](https://doi.org/10.1016/j.ymeth.2019.05.008)
